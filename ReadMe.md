@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 I'm Ali, a CS undergrad passionate about Data Science and Web Development. <br>🔭 Currently I am working on web projects and data analytics.<br>🌱 I am always open to collaboration, I'd love to be a part of open source projects.<br>📫 Let's connect! [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalliisn72@gmail.com)!
+👋 I'm Ali, a CS undergrad passionate about Data Science and Web Development. <br>🔭 Currently I am working on web projects and data analytics.<br>🌱 I am always open to collaboration, I'd love to be a part of open source projects.<br>📫 Let's connect! [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalliisn72@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-soban-) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-soban-) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ali-soban/)
 
 # 💻 Tech Stack:
